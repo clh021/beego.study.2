@@ -1,0 +1,9 @@
+1e40295e88e341d9b80b63d00cc2edd27caf790a	not-for-merge	branch 'appveyor-vendoring' of https://github.com/tus/tusd
+e37f8f89b044f769573752dca7b00416299efc15	not-for-merge	branch 'composer' of https://github.com/tus/tusd
+b169a342ac6c64f5b941379d929b646cd3ad7c33	not-for-merge	branch 'deploy-tests' of https://github.com/tus/tusd
+c80c8b1962e98b56b35ff0d1fc401b5b8c9e0f7e	not-for-merge	branch 'expose_metrics' of https://github.com/tus/tusd
+27d6ade1878b4704c588655de4f4b32ed8825a64	not-for-merge	branch 'forwarded-host' of https://github.com/tus/tusd
+9071377570a97d599f7fc769f4d26b45d03020cb	not-for-merge	branch 'frey' of https://github.com/tus/tusd
+2f436ab7e3142f3cac3eba6d675501aa7d99633a		branch 'master' of https://github.com/tus/tusd
+7e230ca693a4aefe8cdd97c048e5b8d2f68f6535	not-for-merge	branch 'refactor' of https://github.com/tus/tusd
+82e29becc4f5e25f801bfa80d189883ca033aa1d	not-for-merge	branch 's3' of https://github.com/tus/tusd
