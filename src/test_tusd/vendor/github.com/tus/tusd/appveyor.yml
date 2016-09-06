@@ -1,0 +1,19 @@
+clone_folder: c:\projects\go\src\github.com\tus\tusd
+
+environment:
+  GOPATH: c:\projects\go
+  GO15VENDOREXPERIMENT: 1
+
+install:
+  - git submodule update --init --recursive
+
+build_script:
+  - go env
+  - go version
+
+test_script:
+  - go test .
+  - go test ./filestore
+  - go test ./limitedstore
+  - go test ./memorylocker
+  - go test ./s3store
